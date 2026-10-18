@@ -1,6 +1,6 @@
 # My First Python Exercises
 
-My first Python exercises. This repository contains two simple programs created to practice basic programming concepts.
+My first Python exercises. This repository contains two simple programs created on Programiz to practice basic programming concepts.
 
 ## Exercises
 
@@ -14,7 +14,7 @@ A simple program that calculates the parking fee based on the number of hours a 
 
 ## Technologies
 
-* Python
+* Python developed on Programiz
 
 ## Purpose
 
